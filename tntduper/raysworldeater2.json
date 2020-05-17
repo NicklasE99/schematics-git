@@ -1,0 +1,110 @@
+{
+  "name": "raysworldeater2",
+  "origin": [
+    -1004,
+    89,
+    1000
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "raysworldeater2",
+    "current": "return",
+    "boxes": [
+      {
+        "pos1": [
+          -957,
+          93,
+          1009
+        ],
+        "pos2": [
+          -957,
+          94,
+          1001
+        ],
+        "name": "return"
+      },
+      {
+        "pos1": [
+          -998,
+          95,
+          1010
+        ],
+        "pos2": [
+          -1004,
+          90,
+          1001
+        ],
+        "name": "base"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "raysworldeater2",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -1004,
+          89,
+          1000
+        ],
+        "pos2": [
+          -1004,
+          89,
+          1000
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "raysworldeater2",
+    "boxes": [
+      {
+        "pos1": [
+          -957,
+          93,
+          1009
+        ],
+        "pos2": [
+          -957,
+          94,
+          1001
+        ],
+        "name": "return"
+      },
+      {
+        "pos1": [
+          -998,
+          95,
+          1010
+        ],
+        "pos2": [
+          -1004,
+          90,
+          1001
+        ],
+        "name": "base"
+      }
+    ],
+    "origin": [
+      -1004,
+      90,
+      1001
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "raysworldeater2",
+      "file_name": "raysworldeater2_00001",
+      "area_offset": [
+        0,
+        1,
+        1
+      ],
+      "version": 1,
+      "timestamp": 1587407523133
+    }
+  ]
+}

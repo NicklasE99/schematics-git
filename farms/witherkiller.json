@@ -1,0 +1,68 @@
+{
+  "name": "witherkiller",
+  "origin": [
+    -1746,
+    121,
+    1693
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "witherkiller"
+  },
+  "selection_simple": {
+    "name": "witherkiller",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -1744,
+          127,
+          1691
+        ],
+        "pos2": [
+          -1760,
+          120,
+          1704
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "witherkiller",
+    "boxes": [
+      {
+        "pos1": [
+          -1744,
+          127,
+          1691
+        ],
+        "pos2": [
+          -1760,
+          120,
+          1704
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -1760,
+      120,
+      1691
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "witherkiller",
+      "file_name": "witherkiller_00001",
+      "area_offset": [
+        -14,
+        -1,
+        -2
+      ],
+      "version": 1,
+      "timestamp": 1582313049720
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "sand_pusher",
+  "origin": [
+    -2006,
+    64,
+    24
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "sand_pusher"
+  },
+  "selection_simple": {
+    "name": "sand_pusher",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2006,
+          63,
+          57
+        ],
+        "pos2": [
+          -2005,
+          66,
+          24
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "sand_pusher",
+    "boxes": [
+      {
+        "pos1": [
+          -2006,
+          63,
+          57
+        ],
+        "pos2": [
+          -2005,
+          66,
+          24
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -2006,
+      63,
+      24
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "sand_pusher",
+      "file_name": "sand_pusher_00001",
+      "area_offset": [
+        0,
+        -1,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1587663238924
+    }
+  ]
+}

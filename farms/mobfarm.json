@@ -1,0 +1,79 @@
+{
+  "name": "mobfarm",
+  "origin": [
+    6448,
+    5,
+    4864
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "mobfarm"
+  },
+  "selection_simple": {
+    "name": "mobfarm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6448,
+          3,
+          4864
+        ],
+        "pos2": [
+          6495,
+          49,
+          4927
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "mobfarm",
+    "boxes": [
+      {
+        "pos1": [
+          6448,
+          3,
+          4864
+        ],
+        "pos2": [
+          6495,
+          49,
+          4927
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      6448,
+      3,
+      4864
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "mobfarm",
+      "file_name": "mobfarm_00001",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1583176437570
+    },
+    {
+      "name": "mobfarm",
+      "file_name": "mobfarm_00002",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1583255117292
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "placement_test",
+  "origin": [
+    -2092,
+    60,
+    -32
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "placement_test"
+  },
+  "selection_simple": {
+    "name": "placement_test",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2087,
+          60,
+          -52
+        ],
+        "pos2": [
+          -2092,
+          60,
+          -32
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "placement_test",
+    "boxes": [
+      {
+        "pos1": [
+          -2087,
+          60,
+          -52
+        ],
+        "pos2": [
+          -2092,
+          60,
+          -32
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -2092,
+      60,
+      -52
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "placement_test",
+      "file_name": "placement_test_00001",
+      "area_offset": [
+        0,
+        0,
+        -20
+      ],
+      "version": 1,
+      "timestamp": 1588362760403
+    }
+  ]
+}

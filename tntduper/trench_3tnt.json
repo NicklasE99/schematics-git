@@ -1,0 +1,110 @@
+{
+  "name": "trench_3tnt",
+  "origin": [
+    -2306,
+    137,
+    -44
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "trench_3tnt",
+    "current": "return",
+    "boxes": [
+      {
+        "pos1": [
+          -2300,
+          130,
+          -41
+        ],
+        "pos2": [
+          -2318,
+          218,
+          -58
+        ],
+        "name": "start"
+      },
+      {
+        "pos1": [
+          -2300,
+          130,
+          -125
+        ],
+        "pos2": [
+          -2316,
+          217,
+          -140
+        ],
+        "name": "return"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "trench_3tnt",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2306,
+          137,
+          -44
+        ],
+        "pos2": [
+          -2306,
+          137,
+          -44
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "trench_3tnt",
+    "boxes": [
+      {
+        "pos1": [
+          -2300,
+          130,
+          -41
+        ],
+        "pos2": [
+          -2318,
+          218,
+          -58
+        ],
+        "name": "start"
+      },
+      {
+        "pos1": [
+          -2300,
+          130,
+          -125
+        ],
+        "pos2": [
+          -2316,
+          217,
+          -140
+        ],
+        "name": "return"
+      }
+    ],
+    "origin": [
+      -2318,
+      130,
+      -140
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "trench_3tnt",
+      "file_name": "trench_3tnt_00001",
+      "area_offset": [
+        -12,
+        -7,
+        -96
+      ],
+      "version": 1,
+      "timestamp": 1588790776310
+    }
+  ]
+}

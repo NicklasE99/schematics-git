@@ -1,0 +1,90 @@
+{
+  "name": "tunnelbore1152",
+  "origin": [
+    708,
+    58,
+    -13
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "tunnelbore1152"
+  },
+  "selection_simple": {
+    "name": "tunnelbore1152",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          710,
+          59,
+          -12
+        ],
+        "pos2": [
+          730,
+          64,
+          -8
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tunnelbore1152",
+    "boxes": [
+      {
+        "pos1": [
+          710,
+          59,
+          -12
+        ],
+        "pos2": [
+          730,
+          64,
+          -8
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      710,
+      59,
+      -12
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tunnelbore1152",
+      "file_name": "tunnelbore1152_00001",
+      "area_offset": [
+        2,
+        1,
+        1
+      ],
+      "version": 1,
+      "timestamp": 1586003117093
+    },
+    {
+      "name": "tunnelbore1152",
+      "file_name": "tunnelbore1152_00002",
+      "area_offset": [
+        2,
+        1,
+        1
+      ],
+      "version": 2,
+      "timestamp": 1586003192298
+    },
+    {
+      "name": "tunnelbore1152",
+      "file_name": "tunnelbore1152_00003",
+      "area_offset": [
+        2,
+        1,
+        1
+      ],
+      "version": 3,
+      "timestamp": 1586003355988
+    }
+  ]
+}

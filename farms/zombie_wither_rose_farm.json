@@ -1,0 +1,206 @@
+{
+  "name": "zombie_wither_rose_farm",
+  "origin": [
+    814,
+    35,
+    8614
+  ],
+  "current_version_id": 4,
+  "selection_normal": {
+    "name": "zombie_wither_rose_farm",
+    "current": "transport",
+    "boxes": [
+      {
+        "pos1": [
+          831,
+          32,
+          8617
+        ],
+        "pos2": [
+          833,
+          11,
+          8612
+        ],
+        "name": "drop"
+      },
+      {
+        "pos1": [
+          825,
+          21,
+          8611
+        ],
+        "pos2": [
+          813,
+          34,
+          8623
+        ],
+        "name": "spawner"
+      },
+      {
+        "pos1": [
+          830,
+          22,
+          8612
+        ],
+        "pos2": [
+          821,
+          19,
+          8614
+        ],
+        "name": "transport"
+      },
+      {
+        "pos1": [
+          835,
+          4,
+          8657
+        ],
+        "pos2": [
+          831,
+          11,
+          8598
+        ],
+        "name": "withercage"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "zombie_wither_rose_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          814,
+          35,
+          8614
+        ],
+        "pos2": [
+          814,
+          35,
+          8614
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "zombie_wither_rose_farm",
+    "boxes": [
+      {
+        "pos1": [
+          831,
+          32,
+          8617
+        ],
+        "pos2": [
+          833,
+          11,
+          8612
+        ],
+        "name": "drop"
+      },
+      {
+        "pos1": [
+          825,
+          21,
+          8611
+        ],
+        "pos2": [
+          813,
+          34,
+          8623
+        ],
+        "name": "spawner"
+      },
+      {
+        "pos1": [
+          830,
+          22,
+          8612
+        ],
+        "pos2": [
+          821,
+          19,
+          8614
+        ],
+        "name": "transport"
+      },
+      {
+        "pos1": [
+          835,
+          4,
+          8657
+        ],
+        "pos2": [
+          831,
+          11,
+          8598
+        ],
+        "name": "withercage"
+      }
+    ],
+    "origin": [
+      813,
+      4,
+      8598
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "zombie_wither_rose_farm",
+      "file_name": "zombie_wither_rose_farm_00001",
+      "area_offset": [
+        -1,
+        -31,
+        -16
+      ],
+      "version": 1,
+      "timestamp": 1586531546567
+    },
+    {
+      "name": "zombie_wither_rose_farm",
+      "file_name": "zombie_wither_rose_farm_00002",
+      "area_offset": [
+        -1,
+        -31,
+        -16
+      ],
+      "version": 2,
+      "timestamp": 1586535136960
+    },
+    {
+      "name": "zombie_wither_rose_farm",
+      "file_name": "zombie_wither_rose_farm_00003",
+      "area_offset": [
+        -1,
+        -31,
+        -16
+      ],
+      "version": 3,
+      "timestamp": 1586535558360
+    },
+    {
+      "name": "zombie_wither_rose_farm",
+      "file_name": "zombie_wither_rose_farm_00004",
+      "area_offset": [
+        -1,
+        -31,
+        -16
+      ],
+      "version": 4,
+      "timestamp": 1586535631096
+    },
+    {
+      "name": "zombie_wither_rose_farm",
+      "file_name": "zombie_wither_rose_farm_00005",
+      "area_offset": [
+        -1,
+        -31,
+        -16
+      ],
+      "version": 5,
+      "timestamp": 1586545046396
+    }
+  ]
+}

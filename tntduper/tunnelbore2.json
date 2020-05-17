@@ -1,0 +1,112 @@
+{
+  "name": "tunnelbore2",
+  "origin": [
+    706,
+    60,
+    -78
+  ],
+  "current_version_id": 4,
+  "selection_normal": {
+    "name": "tunnelbore2"
+  },
+  "selection_simple": {
+    "name": "tunnelbore2",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          706,
+          58,
+          -78
+        ],
+        "pos2": [
+          726,
+          68,
+          -51
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tunnelbore2",
+    "boxes": [
+      {
+        "pos1": [
+          706,
+          58,
+          -78
+        ],
+        "pos2": [
+          726,
+          68,
+          -51
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      706,
+      58,
+      -78
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tunnelbore2",
+      "file_name": "tunnelbore2_00001",
+      "area_offset": [
+        0,
+        0,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1586012519976
+    },
+    {
+      "name": "tunnelbore2",
+      "file_name": "tunnelbore2_00002",
+      "area_offset": [
+        0,
+        0,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1586012707326
+    },
+    {
+      "name": "tunnelbore2",
+      "file_name": "tunnelbore2_00003",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 3,
+      "timestamp": 1586013573170
+    },
+    {
+      "name": "tunnelbore2",
+      "file_name": "tunnelbore2_00004",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 4,
+      "timestamp": 1586014909976
+    },
+    {
+      "name": "tunnelbore2",
+      "file_name": "tunnelbore2_00005",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 5,
+      "timestamp": 1586026490829
+    }
+  ]
+}

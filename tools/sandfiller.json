@@ -1,0 +1,110 @@
+{
+  "name": "sandfiller",
+  "origin": [
+    -2130,
+    65,
+    1
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "sandfiller",
+    "current": "pusher",
+    "boxes": [
+      {
+        "pos1": [
+          -2119,
+          66,
+          13
+        ],
+        "pos2": [
+          -2130,
+          64,
+          10
+        ],
+        "name": "pusher"
+      },
+      {
+        "pos1": [
+          -2117,
+          66,
+          -3
+        ],
+        "pos2": [
+          -2130,
+          61,
+          6
+        ],
+        "name": "base"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "sandfiller",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2130,
+          65,
+          1
+        ],
+        "pos2": [
+          -2130,
+          65,
+          1
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "sandfiller",
+    "boxes": [
+      {
+        "pos1": [
+          -2119,
+          66,
+          13
+        ],
+        "pos2": [
+          -2130,
+          64,
+          10
+        ],
+        "name": "pusher"
+      },
+      {
+        "pos1": [
+          -2117,
+          66,
+          -3
+        ],
+        "pos2": [
+          -2130,
+          61,
+          6
+        ],
+        "name": "base"
+      }
+    ],
+    "origin": [
+      -2130,
+      61,
+      -3
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "sandfiller",
+      "file_name": "sandfiller_00001",
+      "area_offset": [
+        0,
+        -4,
+        -4
+      ],
+      "version": 1,
+      "timestamp": 1588975952173
+    }
+  ]
+}

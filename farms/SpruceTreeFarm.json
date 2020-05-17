@@ -1,0 +1,68 @@
+{
+  "name": "SpruceTreeFarm",
+  "origin": [
+    -208,
+    1,
+    216
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "SpruceTreeFarm"
+  },
+  "selection_simple": {
+    "name": "SpruceTreeFarm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -209,
+          1,
+          215
+        ],
+        "pos2": [
+          -230,
+          83,
+          245
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "SpruceTreeFarm",
+    "boxes": [
+      {
+        "pos1": [
+          -209,
+          1,
+          215
+        ],
+        "pos2": [
+          -230,
+          83,
+          245
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -230,
+      1,
+      215
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "SpruceTreeFarm",
+      "file_name": "SpruceTreeFarm_00001",
+      "area_offset": [
+        -22,
+        0,
+        -1
+      ],
+      "version": 1,
+      "timestamp": 1579964694085
+    }
+  ]
+}

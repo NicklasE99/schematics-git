@@ -1,0 +1,68 @@
+{
+  "name": "maze",
+  "origin": [
+    2224,
+    63,
+    1279
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "maze"
+  },
+  "selection_simple": {
+    "name": "maze",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          2223,
+          63,
+          1279
+        ],
+        "pos2": [
+          2192,
+          64,
+          1248
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "maze",
+    "boxes": [
+      {
+        "pos1": [
+          2223,
+          63,
+          1279
+        ],
+        "pos2": [
+          2192,
+          64,
+          1248
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      2192,
+      63,
+      1248
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "maze",
+      "file_name": "maze_00001",
+      "area_offset": [
+        -32,
+        0,
+        -31
+      ],
+      "version": 1,
+      "timestamp": 1581933685011
+    }
+  ]
+}

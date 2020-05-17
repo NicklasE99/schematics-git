@@ -1,0 +1,68 @@
+{
+  "name": "arvid",
+  "origin": [
+    350,
+    85,
+    -422
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "arvid"
+  },
+  "selection_simple": {
+    "name": "arvid",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          337,
+          44,
+          -392
+        ],
+        "pos2": [
+          881,
+          170,
+          -464
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "arvid",
+    "boxes": [
+      {
+        "pos1": [
+          337,
+          44,
+          -392
+        ],
+        "pos2": [
+          881,
+          170,
+          -464
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      337,
+      44,
+      -464
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "arvid",
+      "file_name": "arvid_00001",
+      "area_offset": [
+        -13,
+        -41,
+        -42
+      ],
+      "version": 1,
+      "timestamp": 1586695999293
+    }
+  ]
+}

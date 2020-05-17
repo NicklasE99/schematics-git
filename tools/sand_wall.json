@@ -1,0 +1,176 @@
+{
+  "name": "sand_wall",
+  "origin": [
+    -2008,
+    63,
+    1
+  ],
+  "current_version_id": 6,
+  "selection_normal": {
+    "name": "sand_wall",
+    "current": "wall",
+    "boxes": [
+      {
+        "pos1": [
+          -2006,
+          66,
+          307
+        ],
+        "pos2": [
+          -2005,
+          63,
+          9
+        ],
+        "name": "wall"
+      },
+      {
+        "pos1": [
+          -2008,
+          61,
+          1
+        ],
+        "pos2": [
+          -2004,
+          65,
+          8
+        ],
+        "name": "base"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "sand_wall",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2008,
+          63,
+          1
+        ],
+        "pos2": [
+          -2008,
+          63,
+          1
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "sand_wall",
+    "boxes": [
+      {
+        "pos1": [
+          -2006,
+          66,
+          307
+        ],
+        "pos2": [
+          -2005,
+          63,
+          9
+        ],
+        "name": "wall"
+      },
+      {
+        "pos1": [
+          -2008,
+          61,
+          1
+        ],
+        "pos2": [
+          -2004,
+          65,
+          8
+        ],
+        "name": "base"
+      }
+    ],
+    "origin": [
+      -2008,
+      61,
+      1
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00001",
+      "area_offset": [
+        -1,
+        0,
+        -3
+      ],
+      "version": 1,
+      "timestamp": 1587661809769
+    },
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00002",
+      "area_offset": [
+        0,
+        -1,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1587662585170
+    },
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00003",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 3,
+      "timestamp": 1587662638322
+    },
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00004",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 4,
+      "timestamp": 1587662681628
+    },
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00005",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 5,
+      "timestamp": 1587663484670
+    },
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00006",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 6,
+      "timestamp": 1587663628423
+    },
+    {
+      "name": "sand_wall",
+      "file_name": "sand_wall_00007",
+      "area_offset": [
+        0,
+        -2,
+        0
+      ],
+      "version": 7,
+      "timestamp": 1588361932481
+    }
+  ]
+}

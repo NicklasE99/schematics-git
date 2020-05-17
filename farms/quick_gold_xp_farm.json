@@ -1,0 +1,162 @@
+{
+  "name": "quick_gold_xp_farm",
+  "origin": [
+    -50,
+    128,
+    14
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "quick_gold_xp_farm",
+    "current": "spawning_floor",
+    "boxes": [
+      {
+        "pos1": [
+          -53,
+          222,
+          14
+        ],
+        "pos2": [
+          -47,
+          251,
+          16
+        ],
+        "name": "drop"
+      },
+      {
+        "pos1": [
+          -51,
+          127,
+          16
+        ],
+        "pos2": [
+          -49,
+          220,
+          14
+        ],
+        "name": "bedrock"
+      },
+      {
+        "pos1": [
+          -80,
+          252,
+          -15
+        ],
+        "pos2": [
+          -20,
+          255,
+          45
+        ],
+        "name": "spawning_floor"
+      },
+      {
+        "pos1": [
+          -59,
+          213,
+          12
+        ],
+        "pos2": [
+          -41,
+          221,
+          19
+        ],
+        "name": "storage"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "quick_gold_xp_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -50,
+          128,
+          14
+        ],
+        "pos2": [
+          -50,
+          128,
+          14
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "quick_gold_xp_farm",
+    "boxes": [
+      {
+        "pos1": [
+          -53,
+          222,
+          14
+        ],
+        "pos2": [
+          -47,
+          251,
+          16
+        ],
+        "name": "drop"
+      },
+      {
+        "pos1": [
+          -59,
+          213,
+          12
+        ],
+        "pos2": [
+          -41,
+          221,
+          19
+        ],
+        "name": "storage"
+      },
+      {
+        "pos1": [
+          -51,
+          127,
+          16
+        ],
+        "pos2": [
+          -49,
+          220,
+          14
+        ],
+        "name": "bedrock"
+      },
+      {
+        "pos1": [
+          -80,
+          252,
+          -15
+        ],
+        "pos2": [
+          -20,
+          255,
+          45
+        ],
+        "name": "spawning_floor"
+      }
+    ],
+    "origin": [
+      -80,
+      127,
+      -15
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "quick_gold_xp_farm",
+      "file_name": "quick_gold_xp_farm_00001",
+      "area_offset": [
+        -30,
+        -1,
+        -29
+      ],
+      "version": 1,
+      "timestamp": 1587206610424
+    }
+  ]
+}
