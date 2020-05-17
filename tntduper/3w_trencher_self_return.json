@@ -1,0 +1,158 @@
+{
+  "name": "3w_trencher_self_return",
+  "origin": [
+    -2227,
+    127,
+    -4
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "3w_trencher_self_return",
+    "current": "walkway",
+    "boxes": [
+      {
+        "pos1": [
+          -2221,
+          122,
+          120
+        ],
+        "pos2": [
+          -2221,
+          122,
+          10
+        ],
+        "name": "walkway"
+      },
+      {
+        "pos1": [
+          -2217,
+          122,
+          9
+        ],
+        "pos2": [
+          -2227,
+          127,
+          -1
+        ],
+        "name": "dupers"
+      },
+      {
+        "pos1": [
+          -2227,
+          124,
+          -2
+        ],
+        "pos2": [
+          -2217,
+          126,
+          -4
+        ],
+        "name": "base"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "3w_trencher_self_return",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2227,
+          127,
+          -4
+        ],
+        "pos2": [
+          -2227,
+          127,
+          -4
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "3w_trencher_self_return",
+    "boxes": [
+      {
+        "pos1": [
+          -2221,
+          122,
+          120
+        ],
+        "pos2": [
+          -2221,
+          122,
+          10
+        ],
+        "name": "walkway"
+      },
+      {
+        "pos1": [
+          -2217,
+          122,
+          9
+        ],
+        "pos2": [
+          -2227,
+          127,
+          -1
+        ],
+        "name": "dupers"
+      },
+      {
+        "pos1": [
+          -2227,
+          124,
+          -2
+        ],
+        "pos2": [
+          -2217,
+          126,
+          -4
+        ],
+        "name": "base"
+      }
+    ],
+    "origin": [
+      -2227,
+      122,
+      -4
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "3w_trencher_self_return",
+      "file_name": "3w_trencher_self_return_00001",
+      "area_offset": [
+        0,
+        -5,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1589708852231
+    },
+    {
+      "name": "3w_trencher_self_return",
+      "file_name": "3w_trencher_self_return_00002",
+      "area_offset": [
+        0,
+        -5,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1589709720885
+    },
+    {
+      "name": "3w_trencher_self_return",
+      "file_name": "3w_trencher_self_return_00003",
+      "area_offset": [
+        0,
+        -5,
+        0
+      ],
+      "version": 3,
+      "timestamp": 1589711878230
+    }
+  ]
+}
