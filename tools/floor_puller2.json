@@ -1,0 +1,97 @@
+{
+  "name": "floor_puller2",
+  "origin": [
+    -2415,
+    65,
+    11
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "floor_puller2",
+    "current": "engine",
+    "boxes": [
+      {
+        "pos1": [
+          -2417,
+          61,
+          -167
+        ],
+        "pos2": [
+          -2415,
+          63,
+          8
+        ],
+        "name": "pullers"
+      },
+      {
+        "pos1": [
+          -2410,
+          62,
+          6
+        ],
+        "pos2": [
+          -2414,
+          63,
+          7
+        ],
+        "name": "engine"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "floor_puller2",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2415,
+          65,
+          11
+        ],
+        "pos2": [
+          -2415,
+          65,
+          11
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "floor_puller2",
+    "boxes": [
+      {
+        "pos1": [
+          -2417,
+          61,
+          -168
+        ],
+        "pos2": [
+          -2415,
+          63,
+          8
+        ],
+        "name": "pullers"
+      }
+    ],
+    "origin": [
+      -2417,
+      61,
+      -168
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "floor_puller2",
+      "file_name": "floor_puller2_00001",
+      "area_offset": [
+        -2,
+        -4,
+        -179
+      ],
+      "version": 1,
+      "timestamp": 1590143709644
+    }
+  ]
+}
