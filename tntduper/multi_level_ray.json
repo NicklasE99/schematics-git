@@ -1,0 +1,132 @@
+{
+  "name": "multi_level_ray",
+  "origin": [
+    -2264,
+    154,
+    -231
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "multi_level_ray",
+    "current": "return",
+    "boxes": [
+      {
+        "pos1": [
+          -2223,
+          153,
+          -232
+        ],
+        "pos2": [
+          -2193,
+          253,
+          -330
+        ],
+        "name": "return"
+      },
+      {
+        "pos1": [
+          -2264,
+          150,
+          -231
+        ],
+        "pos2": [
+          -2299,
+          254,
+          -330
+        ],
+        "name": "base"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "multi_level_ray",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2264,
+          154,
+          -231
+        ],
+        "pos2": [
+          -2264,
+          154,
+          -231
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "multi_level_ray",
+    "boxes": [
+      {
+        "pos1": [
+          -2223,
+          153,
+          -232
+        ],
+        "pos2": [
+          -2193,
+          253,
+          -330
+        ],
+        "name": "return"
+      },
+      {
+        "pos1": [
+          -2264,
+          150,
+          -231
+        ],
+        "pos2": [
+          -2299,
+          254,
+          -330
+        ],
+        "name": "base"
+      }
+    ],
+    "origin": [
+      -2299,
+      150,
+      -330
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "multi_level_ray",
+      "file_name": "multi_level_ray_00001",
+      "area_offset": [
+        -35,
+        -4,
+        -99
+      ],
+      "version": 1,
+      "timestamp": 1592158771549
+    },
+    {
+      "name": "multi_level_ray",
+      "file_name": "multi_level_ray_00002",
+      "area_offset": [
+        -35,
+        -4,
+        -99
+      ],
+      "version": 2,
+      "timestamp": 1592224294943
+    },
+    {
+      "name": "multi_level_ray",
+      "file_name": "multi_level_ray_00003",
+      "area_offset": [
+        -35,
+        -4,
+        -99
+      ],
+      "version": 3,
+      "timestamp": 1592236217212
+    }
+  ]
+}
