@@ -1,0 +1,79 @@
+{
+  "name": "rays_stationary_eater",
+  "origin": [
+    235,
+    118,
+    1871
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "rays_stationary_eater"
+  },
+  "selection_simple": {
+    "name": "rays_stationary_eater",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          229,
+          120,
+          1869
+        ],
+        "pos2": [
+          236,
+          115,
+          1875
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "rays_stationary_eater",
+    "boxes": [
+      {
+        "pos1": [
+          229,
+          120,
+          1869
+        ],
+        "pos2": [
+          236,
+          115,
+          1875
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      229,
+      115,
+      1869
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "rays_stationary_eater",
+      "file_name": "rays_stationary_eater_00001",
+      "area_offset": [
+        -8,
+        -4,
+        -2
+      ],
+      "version": 1,
+      "timestamp": 1593256769492
+    },
+    {
+      "name": "rays_stationary_eater",
+      "file_name": "rays_stationary_eater_00002",
+      "area_offset": [
+        -6,
+        -3,
+        -2
+      ],
+      "version": 2,
+      "timestamp": 1593257791134
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "manual_fungus_farm",
+  "origin": [
+    -30,
+    128,
+    -259
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "manual_fungus_farm"
+  },
+  "selection_simple": {
+    "name": "manual_fungus_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -38,
+          128,
+          -274
+        ],
+        "pos2": [
+          -32,
+          221,
+          -259
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "manual_fungus_farm",
+    "boxes": [
+      {
+        "pos1": [
+          -38,
+          128,
+          -274
+        ],
+        "pos2": [
+          -32,
+          221,
+          -259
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -38,
+      128,
+      -274
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "manual_fungus_farm",
+      "file_name": "manual_fungus_farm_00001",
+      "area_offset": [
+        -8,
+        0,
+        -15
+      ],
+      "version": 1,
+      "timestamp": 1593692756743
+    }
+  ]
+}

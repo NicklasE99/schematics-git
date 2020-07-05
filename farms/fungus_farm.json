@@ -1,0 +1,68 @@
+{
+  "name": "fungus_farm",
+  "origin": [
+    -143,
+    65,
+    -92
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "fungus_farm"
+  },
+  "selection_simple": {
+    "name": "fungus_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -151,
+          65,
+          -86
+        ],
+        "pos2": [
+          -143,
+          61,
+          -97
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "fungus_farm",
+    "boxes": [
+      {
+        "pos1": [
+          -151,
+          65,
+          -86
+        ],
+        "pos2": [
+          -143,
+          61,
+          -97
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -151,
+      61,
+      -97
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "fungus_farm",
+      "file_name": "fungus_farm_00001",
+      "area_offset": [
+        -8,
+        -4,
+        -5
+      ],
+      "version": 1,
+      "timestamp": 1593094706282
+    }
+  ]
+}

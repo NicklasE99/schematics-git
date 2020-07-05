@@ -1,0 +1,221 @@
+{
+  "name": "quick_gold_xp_farm2",
+  "origin": [
+    -2068,
+    128,
+    -146
+  ],
+  "current_version_id": 3,
+  "selection_normal": {
+    "name": "quick_gold_xp_farm2",
+    "current": "afk_floor",
+    "boxes": [
+      {
+        "pos1": [
+          -2072,
+          251,
+          -147
+        ],
+        "pos2": [
+          -2066,
+          219,
+          -143
+        ],
+        "name": "drop"
+      },
+      {
+        "pos1": [
+          -2067,
+          219,
+          -146
+        ],
+        "pos2": [
+          -2071,
+          127,
+          -143
+        ],
+        "name": "pillar"
+      },
+      {
+        "pos1": [
+          -2039,
+          252,
+          -116
+        ],
+        "pos2": [
+          -2099,
+          255,
+          -176
+        ],
+        "name": "spawn_floor"
+      },
+      {
+        "pos1": [
+          -2075,
+          128,
+          -146
+        ],
+        "pos2": [
+          -2063,
+          136,
+          -134
+        ],
+        "name": "storage"
+      },
+      {
+        "pos1": [
+          -2072,
+          221,
+          -152
+        ],
+        "pos2": [
+          -2066,
+          221,
+          -148
+        ],
+        "name": "afk_floor"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "quick_gold_xp_farm2",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -2068,
+          128,
+          -146
+        ],
+        "pos2": [
+          -2068,
+          128,
+          -146
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "quick_gold_xp_farm2",
+    "boxes": [
+      {
+        "pos1": [
+          -2072,
+          251,
+          -147
+        ],
+        "pos2": [
+          -2066,
+          219,
+          -143
+        ],
+        "name": "drop"
+      },
+      {
+        "pos1": [
+          -2039,
+          252,
+          -116
+        ],
+        "pos2": [
+          -2099,
+          255,
+          -176
+        ],
+        "name": "spawn_floor"
+      },
+      {
+        "pos1": [
+          -2067,
+          219,
+          -146
+        ],
+        "pos2": [
+          -2071,
+          127,
+          -143
+        ],
+        "name": "pillar"
+      },
+      {
+        "pos1": [
+          -2075,
+          128,
+          -146
+        ],
+        "pos2": [
+          -2063,
+          136,
+          -134
+        ],
+        "name": "storage"
+      },
+      {
+        "pos1": [
+          -2072,
+          221,
+          -152
+        ],
+        "pos2": [
+          -2066,
+          221,
+          -148
+        ],
+        "name": "afk_floor"
+      }
+    ],
+    "origin": [
+      -2099,
+      127,
+      -176
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "quick_gold_xp_farm2",
+      "file_name": "quick_gold_xp_farm2_00001",
+      "area_offset": [
+        -31,
+        -1,
+        -30
+      ],
+      "version": 1,
+      "timestamp": 1593587272987
+    },
+    {
+      "name": "quick_gold_xp_farm2",
+      "file_name": "quick_gold_xp_farm2_00002",
+      "area_offset": [
+        -31,
+        -1,
+        -30
+      ],
+      "version": 2,
+      "timestamp": 1593592893122
+    },
+    {
+      "name": "quick_gold_xp_farm2",
+      "file_name": "quick_gold_xp_farm2_00003",
+      "area_offset": [
+        -31,
+        -1,
+        -30
+      ],
+      "version": 3,
+      "timestamp": 1593604072720
+    },
+    {
+      "name": "quick_gold_xp_farm2",
+      "file_name": "quick_gold_xp_farm2_00004",
+      "area_offset": [
+        -31,
+        -1,
+        -30
+      ],
+      "version": 4,
+      "timestamp": 1593604109449
+    }
+  ]
+}
