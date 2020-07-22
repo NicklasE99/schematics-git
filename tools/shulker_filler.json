@@ -1,0 +1,68 @@
+{
+  "name": "shulker_filler",
+  "origin": [
+    -198,
+    73,
+    -70
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "shulker_filler"
+  },
+  "selection_simple": {
+    "name": "shulker_filler",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -190,
+          64,
+          -70
+        ],
+        "pos2": [
+          -198,
+          72,
+          -70
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "shulker_filler",
+    "boxes": [
+      {
+        "pos1": [
+          -190,
+          64,
+          -70
+        ],
+        "pos2": [
+          -198,
+          72,
+          -70
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -198,
+      64,
+      -70
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "shulker_filler",
+      "file_name": "shulker_filler_00001",
+      "area_offset": [
+        0,
+        -9,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1595273442669
+    }
+  ]
+}
