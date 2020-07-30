@@ -1,0 +1,188 @@
+{
+  "name": "brando_rail",
+  "origin": [
+    112,
+    141,
+    -7
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "brando_rail",
+    "current": "part5",
+    "boxes": [
+      {
+        "pos1": [
+          178,
+          140,
+          -8
+        ],
+        "pos2": [
+          112,
+          141,
+          -7
+        ],
+        "name": "part1"
+      },
+      {
+        "pos1": [
+          177,
+          140,
+          -132
+        ],
+        "pos2": [
+          178,
+          141,
+          -7
+        ],
+        "name": "part2"
+      },
+      {
+        "pos1": [
+          -252,
+          140,
+          -131
+        ],
+        "pos2": [
+          178,
+          142,
+          -133
+        ],
+        "name": "part3"
+      },
+      {
+        "pos1": [
+          -253,
+          140,
+          -130
+        ],
+        "pos2": [
+          -272,
+          144,
+          -137
+        ],
+        "name": "part4"
+      },
+      {
+        "pos1": [
+          -2029,
+          141,
+          -132
+        ],
+        "pos2": [
+          -273,
+          140,
+          -130
+        ],
+        "name": "part5"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "brando_rail",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          112,
+          141,
+          -7
+        ],
+        "pos2": [
+          112,
+          141,
+          -7
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "brando_rail",
+    "boxes": [
+      {
+        "pos1": [
+          -252,
+          140,
+          -131
+        ],
+        "pos2": [
+          178,
+          142,
+          -133
+        ],
+        "name": "part3"
+      },
+      {
+        "pos1": [
+          -253,
+          140,
+          -130
+        ],
+        "pos2": [
+          -272,
+          144,
+          -137
+        ],
+        "name": "part4"
+      },
+      {
+        "pos1": [
+          -2029,
+          141,
+          -132
+        ],
+        "pos2": [
+          -273,
+          140,
+          -130
+        ],
+        "name": "part5"
+      },
+      {
+        "pos1": [
+          178,
+          140,
+          -8
+        ],
+        "pos2": [
+          112,
+          141,
+          -7
+        ],
+        "name": "part1"
+      },
+      {
+        "pos1": [
+          177,
+          140,
+          -132
+        ],
+        "pos2": [
+          178,
+          141,
+          -7
+        ],
+        "name": "part2"
+      }
+    ],
+    "origin": [
+      -2029,
+      140,
+      -137
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "brando_rail",
+      "file_name": "brando_rail_00001",
+      "area_offset": [
+        -2141,
+        -1,
+        -130
+      ],
+      "version": 1,
+      "timestamp": 1596092154988
+    }
+  ]
+}
