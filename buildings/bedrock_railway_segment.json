@@ -1,0 +1,136 @@
+{
+  "name": "bedrock_railway_segment",
+  "origin": [
+    -433,
+    74,
+    -29
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "bedrock_railway_segment",
+    "current": "leg2",
+    "boxes": [
+      {
+        "pos1": [
+          -264,
+          72,
+          -27
+        ],
+        "pos2": [
+          -264,
+          60,
+          -29
+        ],
+        "name": "leg1"
+      },
+      {
+        "pos1": [
+          -424,
+          72,
+          -27
+        ],
+        "pos2": [
+          -424,
+          60,
+          -29
+        ],
+        "name": "leg2"
+      },
+      {
+        "pos1": [
+          -257,
+          75,
+          -25
+        ],
+        "pos2": [
+          -433,
+          73,
+          -31
+        ],
+        "name": "rail"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "bedrock_railway_segment",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -433,
+          74,
+          -29
+        ],
+        "pos2": [
+          -433,
+          74,
+          -29
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "bedrock_railway_segment",
+    "boxes": [
+      {
+        "pos1": [
+          -264,
+          72,
+          -27
+        ],
+        "pos2": [
+          -264,
+          60,
+          -29
+        ],
+        "name": "leg1"
+      },
+      {
+        "pos1": [
+          -424,
+          72,
+          -27
+        ],
+        "pos2": [
+          -424,
+          60,
+          -29
+        ],
+        "name": "leg2"
+      },
+      {
+        "pos1": [
+          -257,
+          75,
+          -25
+        ],
+        "pos2": [
+          -433,
+          73,
+          -31
+        ],
+        "name": "rail"
+      }
+    ],
+    "origin": [
+      -433,
+      60,
+      -31
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "bedrock_railway_segment",
+      "file_name": "bedrock_railway_segment_00001",
+      "area_offset": [
+        0,
+        -14,
+        -2
+      ],
+      "version": 1,
+      "timestamp": 1596181991404
+    }
+  ]
+}
