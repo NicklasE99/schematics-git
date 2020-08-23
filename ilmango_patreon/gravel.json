@@ -1,0 +1,68 @@
+{
+  "name": "gravel",
+  "origin": [
+    -1093,
+    63,
+    -561
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "gravel"
+  },
+  "selection_simple": {
+    "name": "gravel",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -1101,
+          62,
+          -568
+        ],
+        "pos2": [
+          -1034,
+          62,
+          -548
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "gravel",
+    "boxes": [
+      {
+        "pos1": [
+          -1101,
+          62,
+          -568
+        ],
+        "pos2": [
+          -1034,
+          62,
+          -548
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -1101,
+      62,
+      -568
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "gravel",
+      "file_name": "gravel_00001",
+      "area_offset": [
+        -8,
+        -1,
+        -7
+      ],
+      "version": 1,
+      "timestamp": 1597898944884
+    }
+  ]
+}

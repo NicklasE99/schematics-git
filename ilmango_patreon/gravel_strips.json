@@ -1,0 +1,79 @@
+{
+  "name": "gravel_strips",
+  "origin": [
+    -184,
+    60,
+    37
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "gravel_strips"
+  },
+  "selection_simple": {
+    "name": "gravel_strips",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -204,
+          60,
+          38
+        ],
+        "pos2": [
+          -184,
+          67,
+          101
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "gravel_strips",
+    "boxes": [
+      {
+        "pos1": [
+          -204,
+          60,
+          38
+        ],
+        "pos2": [
+          -184,
+          67,
+          101
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -204,
+      60,
+      38
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "gravel_strips",
+      "file_name": "gravel_strips_00001",
+      "area_offset": [
+        -4,
+        0,
+        1
+      ],
+      "version": 1,
+      "timestamp": 1598102481333
+    },
+    {
+      "name": "gravel_strips",
+      "file_name": "gravel_strips_00002",
+      "area_offset": [
+        -20,
+        0,
+        1
+      ],
+      "version": 2,
+      "timestamp": 1598102737286
+    }
+  ]
+}

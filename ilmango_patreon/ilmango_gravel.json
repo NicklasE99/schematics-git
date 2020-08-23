@@ -1,0 +1,68 @@
+{
+  "name": "ilmango_gravel",
+  "origin": [
+    247,
+    64,
+    -22
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "ilmango_gravel"
+  },
+  "selection_simple": {
+    "name": "ilmango_gravel",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          236,
+          70,
+          -33
+        ],
+        "pos2": [
+          247,
+          52,
+          -22
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "ilmango_gravel",
+    "boxes": [
+      {
+        "pos1": [
+          236,
+          70,
+          -33
+        ],
+        "pos2": [
+          247,
+          52,
+          -22
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      236,
+      52,
+      -33
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "ilmango_gravel",
+      "file_name": "ilmango_gravel_00001",
+      "area_offset": [
+        -11,
+        -12,
+        -11
+      ],
+      "version": 1,
+      "timestamp": 1597863492342
+    }
+  ]
+}
