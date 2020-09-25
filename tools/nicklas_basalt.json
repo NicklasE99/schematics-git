@@ -1,0 +1,84 @@
+{
+  "name": "nicklas_basalt",
+  "origin": [
+    929,
+    60,
+    -133
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "nicklas_basalt",
+    "current": "main",
+    "boxes": [
+      {
+        "pos1": [
+          928,
+          60,
+          -130
+        ],
+        "pos2": [
+          905,
+          66,
+          -128
+        ],
+        "name": "main"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "nicklas_basalt",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          929,
+          60,
+          -133
+        ],
+        "pos2": [
+          929,
+          60,
+          -133
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "nicklas_basalt",
+    "boxes": [
+      {
+        "pos1": [
+          928,
+          60,
+          -130
+        ],
+        "pos2": [
+          905,
+          66,
+          -128
+        ],
+        "name": "main"
+      }
+    ],
+    "origin": [
+      905,
+      60,
+      -130
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "nicklas_basalt",
+      "file_name": "nicklas_basalt_00001",
+      "area_offset": [
+        -24,
+        0,
+        3
+      ],
+      "version": 1,
+      "timestamp": 1601057184116
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "ilmango_basalt_bridge",
+  "origin": [
+    111,
+    67,
+    -110
+  ],
+  "current_version_id": 4,
+  "selection_normal": {
+    "name": "ilmango_basalt_bridge"
+  },
+  "selection_simple": {
+    "name": "ilmango_basalt_bridge",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          283,
+          61,
+          -97
+        ],
+        "pos2": [
+          251,
+          69,
+          -95
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "ilmango_basalt_bridge",
+    "boxes": [
+      {
+        "pos1": [
+          283,
+          61,
+          -97
+        ],
+        "pos2": [
+          251,
+          69,
+          -95
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      251,
+      61,
+      -97
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "ilmango_basalt_bridge",
+      "file_name": "ilmango_basalt_bridge_00001",
+      "area_offset": [
+        1,
+        -4,
+        -5
+      ],
+      "version": 1,
+      "timestamp": 1600401202739
+    },
+    {
+      "name": "ilmango_basalt_bridge",
+      "file_name": "ilmango_basalt_bridge_00002",
+      "area_offset": [
+        10,
+        -6,
+        -6
+      ],
+      "version": 2,
+      "timestamp": 1600401786181
+    },
+    {
+      "name": "ilmango_basalt_bridge",
+      "file_name": "ilmango_basalt_bridge_00003",
+      "area_offset": [
+        9,
+        -6,
+        -6
+      ],
+      "version": 3,
+      "timestamp": 1600401910338
+    },
+    {
+      "name": "ilmango_basalt_bridge",
+      "file_name": "ilmango_basalt_bridge_00004",
+      "area_offset": [
+        9,
+        -6,
+        -6
+      ],
+      "version": 4,
+      "timestamp": 1600402738628
+    },
+    {
+      "name": "ilmango_basalt_bridge",
+      "file_name": "ilmango_basalt_bridge_00005",
+      "area_offset": [
+        140,
+        -6,
+        13
+      ],
+      "version": 5,
+      "timestamp": 1600418303633
+    }
+  ]
+}

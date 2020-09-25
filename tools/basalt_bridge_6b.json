@@ -1,0 +1,68 @@
+{
+  "name": "basalt_bridge_6b",
+  "origin": [
+    890,
+    60,
+    -125
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "basalt_bridge_6b"
+  },
+  "selection_simple": {
+    "name": "basalt_bridge_6b",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          921,
+          61,
+          -130
+        ],
+        "pos2": [
+          889,
+          69,
+          -125
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "basalt_bridge_6b",
+    "boxes": [
+      {
+        "pos1": [
+          921,
+          61,
+          -130
+        ],
+        "pos2": [
+          889,
+          69,
+          -125
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      889,
+      61,
+      -130
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "basalt_bridge_6b",
+      "file_name": "basalt_bridge_6b_00001",
+      "area_offset": [
+        -1,
+        1,
+        -5
+      ],
+      "version": 1,
+      "timestamp": 1600428384237
+    }
+  ]
+}
