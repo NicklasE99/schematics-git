@@ -1,0 +1,90 @@
+{
+  "name": "unloader",
+  "origin": [
+    -224,
+    60,
+    -160
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "unloader"
+  },
+  "selection_simple": {
+    "name": "unloader",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -216,
+          62,
+          -155
+        ],
+        "pos2": [
+          -223,
+          70,
+          -160
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "unloader",
+    "boxes": [
+      {
+        "pos1": [
+          -216,
+          62,
+          -155
+        ],
+        "pos2": [
+          -223,
+          70,
+          -160
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -223,
+      62,
+      -160
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "unloader",
+      "file_name": "unloader_00001",
+      "area_offset": [
+        4,
+        -1,
+        -1
+      ],
+      "version": 1,
+      "timestamp": 1602428281973
+    },
+    {
+      "name": "unloader",
+      "file_name": "unloader_00002",
+      "area_offset": [
+        1,
+        2,
+        -4
+      ],
+      "version": 2,
+      "timestamp": 1602428902365
+    },
+    {
+      "name": "unloader",
+      "file_name": "unloader_00003",
+      "area_offset": [
+        1,
+        2,
+        0
+      ],
+      "version": 3,
+      "timestamp": 1602428972529
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "the_villager_place_s6",
+  "origin": [
+    7904,
+    11,
+    4864
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "the_villager_place_s6"
+  },
+  "selection_simple": {
+    "name": "the_villager_place_s6",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          7951,
+          4,
+          4853
+        ],
+        "pos2": [
+          7904,
+          16,
+          4998
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "the_villager_place_s6",
+    "boxes": [
+      {
+        "pos1": [
+          7951,
+          4,
+          4853
+        ],
+        "pos2": [
+          7904,
+          16,
+          4998
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      7904,
+      4,
+      4853
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "the_villager_place_s6",
+      "file_name": "the_villager_place_s6_00001",
+      "area_offset": [
+        0,
+        -7,
+        -11
+      ],
+      "version": 1,
+      "timestamp": 1602427755631
+    }
+  ]
+}
