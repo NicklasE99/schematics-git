@@ -1,0 +1,112 @@
+{
+  "name": "trading_hall",
+  "origin": [
+    517,
+    63,
+    65
+  ],
+  "current_version_id": 4,
+  "selection_normal": {
+    "name": "trading_hall"
+  },
+  "selection_simple": {
+    "name": "trading_hall",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          524,
+          68,
+          81
+        ],
+        "pos2": [
+          517,
+          60,
+          65
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "trading_hall",
+    "boxes": [
+      {
+        "pos1": [
+          524,
+          68,
+          81
+        ],
+        "pos2": [
+          517,
+          60,
+          65
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      517,
+      60,
+      65
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "trading_hall",
+      "file_name": "trading_hall_00001",
+      "area_offset": [
+        2,
+        0,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1601746374209
+    },
+    {
+      "name": "trading_hall",
+      "file_name": "trading_hall_00002",
+      "area_offset": [
+        1,
+        0,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1601805350907
+    },
+    {
+      "name": "trading_hall",
+      "file_name": "trading_hall_00003",
+      "area_offset": [
+        1,
+        0,
+        2
+      ],
+      "version": 3,
+      "timestamp": 1601824375149
+    },
+    {
+      "name": "trading_hall",
+      "file_name": "trading_hall_00004",
+      "area_offset": [
+        1,
+        0,
+        2
+      ],
+      "version": 4,
+      "timestamp": 1601825335980
+    },
+    {
+      "name": "trading_hall",
+      "file_name": "trading_hall_00005",
+      "area_offset": [
+        0,
+        -3,
+        0
+      ],
+      "version": 5,
+      "timestamp": 1602174780119
+    }
+  ]
+}

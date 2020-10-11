@@ -1,0 +1,68 @@
+{
+  "name": "full_trading_hall",
+  "origin": [
+    511,
+    63,
+    108
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "full_trading_hall"
+  },
+  "selection_simple": {
+    "name": "full_trading_hall",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          513,
+          60,
+          112
+        ],
+        "pos2": [
+          527,
+          68,
+          176
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "full_trading_hall",
+    "boxes": [
+      {
+        "pos1": [
+          513,
+          60,
+          112
+        ],
+        "pos2": [
+          527,
+          68,
+          176
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      513,
+      60,
+      112
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "full_trading_hall",
+      "file_name": "full_trading_hall_00001",
+      "area_offset": [
+        2,
+        -3,
+        4
+      ],
+      "version": 1,
+      "timestamp": 1602175475022
+    }
+  ]
+}

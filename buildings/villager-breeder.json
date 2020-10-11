@@ -1,0 +1,68 @@
+{
+  "name": "villager-breeder",
+  "origin": [
+    610,
+    60,
+    74
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "villager-breeder"
+  },
+  "selection_simple": {
+    "name": "villager-breeder",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          633,
+          71,
+          84
+        ],
+        "pos2": [
+          611,
+          62,
+          74
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "villager-breeder",
+    "boxes": [
+      {
+        "pos1": [
+          633,
+          71,
+          84
+        ],
+        "pos2": [
+          611,
+          62,
+          74
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      611,
+      62,
+      74
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "villager-breeder",
+      "file_name": "villager-breeder_00001",
+      "area_offset": [
+        1,
+        2,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1601840511779
+    }
+  ]
+}
