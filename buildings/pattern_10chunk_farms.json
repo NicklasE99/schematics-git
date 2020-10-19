@@ -1,0 +1,68 @@
+{
+  "name": "pattern_10chunk_farms",
+  "origin": [
+    4999,
+    60,
+    8
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "pattern_10chunk_farms"
+  },
+  "selection_simple": {
+    "name": "pattern_10chunk_farms",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          4832,
+          59,
+          -176
+        ],
+        "pos2": [
+          5167,
+          59,
+          191
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "pattern_10chunk_farms",
+    "boxes": [
+      {
+        "pos1": [
+          4832,
+          59,
+          -176
+        ],
+        "pos2": [
+          5167,
+          59,
+          191
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      4832,
+      59,
+      -176
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "pattern_10chunk_farms",
+      "file_name": "pattern_10chunk_farms_00001",
+      "area_offset": [
+        -167,
+        -1,
+        -184
+      ],
+      "version": 1,
+      "timestamp": 1602946141854
+    }
+  ]
+}

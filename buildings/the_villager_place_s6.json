@@ -5,7 +5,7 @@
     11,
     4864
   ],
-  "current_version_id": 0,
+  "current_version_id": 3,
   "selection_normal": {
     "name": "the_villager_place_s6"
   },
@@ -15,13 +15,13 @@
     "boxes": [
       {
         "pos1": [
-          7951,
+          7955,
           4,
           4853
         ],
         "pos2": [
           7904,
-          16,
+          29,
           4998
         ],
         "name": "Unnamed"
@@ -33,13 +33,13 @@
     "boxes": [
       {
         "pos1": [
-          7951,
+          7955,
           4,
           4853
         ],
         "pos2": [
           7904,
-          16,
+          29,
           4998
         ],
         "name": "Unnamed"
@@ -63,6 +63,39 @@
       ],
       "version": 1,
       "timestamp": 1602427755631
+    },
+    {
+      "name": "the_villager_place_s6",
+      "file_name": "the_villager_place_s6_00002",
+      "area_offset": [
+        0,
+        -7,
+        -11
+      ],
+      "version": 2,
+      "timestamp": 1602443277661
+    },
+    {
+      "name": "the_villager_place_s6",
+      "file_name": "the_villager_place_s6_00003",
+      "area_offset": [
+        0,
+        -7,
+        -11
+      ],
+      "version": 3,
+      "timestamp": 1602443742572
+    },
+    {
+      "name": "the_villager_place_s6",
+      "file_name": "the_villager_place_s6_00004",
+      "area_offset": [
+        0,
+        -7,
+        -11
+      ],
+      "version": 4,
+      "timestamp": 1602533563973
     }
   ]
 }
