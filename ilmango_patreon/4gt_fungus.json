@@ -1,0 +1,68 @@
+{
+  "name": "4gt_fungus",
+  "origin": [
+    -348,
+    186,
+    -18
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "4gt_fungus"
+  },
+  "selection_simple": {
+    "name": "4gt_fungus",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -331,
+          177,
+          -35
+        ],
+        "pos2": [
+          -401,
+          257,
+          20
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "4gt_fungus",
+    "boxes": [
+      {
+        "pos1": [
+          -331,
+          177,
+          -35
+        ],
+        "pos2": [
+          -401,
+          257,
+          20
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -401,
+      177,
+      -35
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "4gt_fungus",
+      "file_name": "4gt_fungus_00001",
+      "area_offset": [
+        -53,
+        -9,
+        -17
+      ],
+      "version": 1,
+      "timestamp": 1603138656774
+    }
+  ]
+}
