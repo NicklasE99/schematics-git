@@ -1,11 +1,11 @@
 {
   "name": "simple_squid",
   "origin": [
-    186,
-    69,
-    -910
+    2675,
+    63,
+    1231
   ],
-  "current_version_id": 1,
+  "current_version_id": 2,
   "selection_normal": {
     "name": "simple_squid"
   },
@@ -15,14 +15,14 @@
     "boxes": [
       {
         "pos1": [
-          976,
-          73,
-          339
+          2672,
+          66,
+          1229
         ],
         "pos2": [
-          871,
-          65,
-          257
+          2780,
+          56,
+          1314
         ],
         "name": "Unnamed"
       }
@@ -33,22 +33,22 @@
     "boxes": [
       {
         "pos1": [
-          976,
-          73,
-          339
+          2672,
+          66,
+          1229
         ],
         "pos2": [
-          871,
-          65,
-          257
+          2780,
+          56,
+          1314
         ],
         "name": "Unnamed"
       }
     ],
     "origin": [
-      871,
-      65,
-      257
+      2672,
+      56,
+      1229
     ]
   },
   "selection_mode": "SIMPLE",
@@ -74,6 +74,17 @@
       ],
       "version": 2,
       "timestamp": 1603212538538
+    },
+    {
+      "name": "simple_squid",
+      "file_name": "simple_squid_00003",
+      "area_offset": [
+        -3,
+        -7,
+        -2
+      ],
+      "version": 3,
+      "timestamp": 1603395688731
     }
   ]
 }
