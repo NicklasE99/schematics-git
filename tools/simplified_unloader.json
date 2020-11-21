@@ -1,0 +1,68 @@
+{
+  "name": "simplified_unloader",
+  "origin": [
+    -248,
+    71,
+    -188
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "simplified_unloader"
+  },
+  "selection_simple": {
+    "name": "simplified_unloader",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -249,
+          63,
+          -191
+        ],
+        "pos2": [
+          -244,
+          71,
+          -186
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "simplified_unloader",
+    "boxes": [
+      {
+        "pos1": [
+          -249,
+          63,
+          -191
+        ],
+        "pos2": [
+          -244,
+          71,
+          -186
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -249,
+      63,
+      -191
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "simplified_unloader",
+      "file_name": "simplified_unloader_00001",
+      "area_offset": [
+        -1,
+        -8,
+        -3
+      ],
+      "version": 1,
+      "timestamp": 1605988831156
+    }
+  ]
+}
