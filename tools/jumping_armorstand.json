@@ -1,0 +1,68 @@
+{
+  "name": "jumping_armorstand",
+  "origin": [
+    826,
+    63,
+    35
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "jumping_armorstand"
+  },
+  "selection_simple": {
+    "name": "jumping_armorstand",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          828,
+          72,
+          44
+        ],
+        "pos2": [
+          827,
+          63,
+          38
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "jumping_armorstand",
+    "boxes": [
+      {
+        "pos1": [
+          828,
+          72,
+          44
+        ],
+        "pos2": [
+          827,
+          63,
+          38
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      827,
+      63,
+      38
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "jumping_armorstand",
+      "file_name": "jumping_armorstand_00001",
+      "area_offset": [
+        1,
+        0,
+        3
+      ],
+      "version": 1,
+      "timestamp": 1607979527895
+    }
+  ]
+}

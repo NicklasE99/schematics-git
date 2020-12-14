@@ -1,0 +1,90 @@
+{
+  "name": "mini-cobble",
+  "origin": [
+    876,
+    75,
+    96
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "mini-cobble"
+  },
+  "selection_simple": {
+    "name": "mini-cobble",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          890,
+          83,
+          91
+        ],
+        "pos2": [
+          875,
+          72,
+          85
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "mini-cobble",
+    "boxes": [
+      {
+        "pos1": [
+          890,
+          83,
+          91
+        ],
+        "pos2": [
+          875,
+          72,
+          85
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      875,
+      72,
+      85
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "mini-cobble",
+      "file_name": "mini-cobble_00001",
+      "area_offset": [
+        0,
+        0,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1607980185622
+    },
+    {
+      "name": "mini-cobble",
+      "file_name": "mini-cobble_00002",
+      "area_offset": [
+        0,
+        -2,
+        -11
+      ],
+      "version": 2,
+      "timestamp": 1607982442820
+    },
+    {
+      "name": "mini-cobble",
+      "file_name": "mini-cobble_00003",
+      "area_offset": [
+        -1,
+        -3,
+        -11
+      ],
+      "version": 3,
+      "timestamp": 1607983586082
+    }
+  ]
+}
