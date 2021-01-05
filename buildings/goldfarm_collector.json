@@ -1,0 +1,68 @@
+{
+  "name": "goldfarm_collector",
+  "origin": [
+    233,
+    128,
+    -227
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "goldfarm_collector"
+  },
+  "selection_simple": {
+    "name": "goldfarm_collector",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          248,
+          146,
+          -247
+        ],
+        "pos2": [
+          233,
+          128,
+          -227
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "goldfarm_collector",
+    "boxes": [
+      {
+        "pos1": [
+          248,
+          146,
+          -247
+        ],
+        "pos2": [
+          233,
+          128,
+          -227
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      233,
+      128,
+      -247
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "goldfarm_collector",
+      "file_name": "goldfarm_collector_00001",
+      "area_offset": [
+        0,
+        0,
+        -20
+      ],
+      "version": 1,
+      "timestamp": 1609251319244
+    }
+  ]
+}

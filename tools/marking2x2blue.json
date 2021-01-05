@@ -1,0 +1,68 @@
+{
+  "name": "marking2x2blue",
+  "origin": [
+    5231,
+    60,
+    496
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "marking2x2blue"
+  },
+  "selection_simple": {
+    "name": "marking2x2blue",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          5263,
+          60,
+          527
+        ],
+        "pos2": [
+          5232,
+          60,
+          496
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "marking2x2blue",
+    "boxes": [
+      {
+        "pos1": [
+          5263,
+          60,
+          527
+        ],
+        "pos2": [
+          5232,
+          60,
+          496
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      5232,
+      60,
+      496
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "marking2x2blue",
+      "file_name": "marking2x2blue_00001",
+      "area_offset": [
+        1,
+        0,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1608649294930
+    }
+  ]
+}

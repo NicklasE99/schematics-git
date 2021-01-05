@@ -1,0 +1,68 @@
+{
+  "name": "window",
+  "origin": [
+    186,
+    64,
+    132
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "window"
+  },
+  "selection_simple": {
+    "name": "window",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          191,
+          62,
+          132
+        ],
+        "pos2": [
+          191,
+          69,
+          136
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "window",
+    "boxes": [
+      {
+        "pos1": [
+          191,
+          62,
+          132
+        ],
+        "pos2": [
+          191,
+          69,
+          136
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      191,
+      62,
+      132
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "window",
+      "file_name": "window_00001",
+      "area_offset": [
+        5,
+        -2,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1608141493157
+    }
+  ]
+}

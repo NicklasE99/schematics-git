@@ -1,0 +1,68 @@
+{
+  "name": "simple_sugarcane",
+  "origin": [
+    13,
+    60,
+    169
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "simple_sugarcane"
+  },
+  "selection_simple": {
+    "name": "simple_sugarcane",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          18,
+          64,
+          135
+        ],
+        "pos2": [
+          13,
+          60,
+          169
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "simple_sugarcane",
+    "boxes": [
+      {
+        "pos1": [
+          18,
+          64,
+          135
+        ],
+        "pos2": [
+          13,
+          60,
+          169
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      13,
+      60,
+      135
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "simple_sugarcane",
+      "file_name": "simple_sugarcane_00001",
+      "area_offset": [
+        0,
+        0,
+        -34
+      ],
+      "version": 1,
+      "timestamp": 1608896353649
+    }
+  ]
+}

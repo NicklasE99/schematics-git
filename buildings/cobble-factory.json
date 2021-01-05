@@ -1,0 +1,90 @@
+{
+  "name": "cobble-factory",
+  "origin": [
+    188,
+    60,
+    124
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "cobble-factory"
+  },
+  "selection_simple": {
+    "name": "cobble-factory",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          189,
+          59,
+          124
+        ],
+        "pos2": [
+          219,
+          82,
+          144
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "cobble-factory",
+    "boxes": [
+      {
+        "pos1": [
+          189,
+          59,
+          124
+        ],
+        "pos2": [
+          219,
+          82,
+          144
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      189,
+      59,
+      124
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "cobble-factory",
+      "file_name": "cobble-factory_00001",
+      "area_offset": [
+        1,
+        -1,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1608145277364
+    },
+    {
+      "name": "cobble-factory",
+      "file_name": "cobble-factory_00002",
+      "area_offset": [
+        1,
+        -1,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1608311464607
+    },
+    {
+      "name": "cobble-factory",
+      "file_name": "cobble-factory_00003",
+      "area_offset": [
+        1,
+        -1,
+        0
+      ],
+      "version": 3,
+      "timestamp": 1608323881582
+    }
+  ]
+}

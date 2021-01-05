@@ -1,0 +1,123 @@
+{
+  "name": "flower_farm",
+  "origin": [
+    196,
+    62,
+    -312
+  ],
+  "current_version_id": 5,
+  "selection_normal": {
+    "name": "flower_farm"
+  },
+  "selection_simple": {
+    "name": "flower_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          217,
+          59,
+          -319
+        ],
+        "pos2": [
+          197,
+          68,
+          -285
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "flower_farm",
+    "boxes": [
+      {
+        "pos1": [
+          217,
+          59,
+          -319
+        ],
+        "pos2": [
+          197,
+          68,
+          -285
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      197,
+      59,
+      -319
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "flower_farm",
+      "file_name": "flower_farm_00001",
+      "area_offset": [
+        0,
+        0,
+        -5
+      ],
+      "version": 1,
+      "timestamp": 1609685328938
+    },
+    {
+      "name": "flower_farm",
+      "file_name": "flower_farm_00002",
+      "area_offset": [
+        1,
+        -3,
+        -3
+      ],
+      "version": 2,
+      "timestamp": 1609686541052
+    },
+    {
+      "name": "flower_farm",
+      "file_name": "flower_farm_00003",
+      "area_offset": [
+        1,
+        -3,
+        3
+      ],
+      "version": 3,
+      "timestamp": 1609686627842
+    },
+    {
+      "name": "flower_farm",
+      "file_name": "flower_farm_00004",
+      "area_offset": [
+        1,
+        -3,
+        -3
+      ],
+      "version": 4,
+      "timestamp": 1609792128931
+    },
+    {
+      "name": "flower_farm",
+      "file_name": "flower_farm_00005",
+      "area_offset": [
+        1,
+        -3,
+        -7
+      ],
+      "version": 5,
+      "timestamp": 1609840396059
+    },
+    {
+      "name": "flower_farm",
+      "file_name": "flower_farm_00006",
+      "area_offset": [
+        1,
+        -3,
+        -7
+      ],
+      "version": 6,
+      "timestamp": 1609882190624
+    }
+  ]
+}

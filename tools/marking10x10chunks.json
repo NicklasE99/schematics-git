@@ -1,0 +1,68 @@
+{
+  "name": "marking10x10chunks",
+  "origin": [
+    5000,
+    60,
+    502
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "marking10x10chunks"
+  },
+  "selection_simple": {
+    "name": "marking10x10chunks",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          5167,
+          60,
+          336
+        ],
+        "pos2": [
+          4832,
+          60,
+          671
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "marking10x10chunks",
+    "boxes": [
+      {
+        "pos1": [
+          5167,
+          60,
+          336
+        ],
+        "pos2": [
+          4832,
+          60,
+          671
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      4832,
+      60,
+      336
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "marking10x10chunks",
+      "file_name": "marking10x10chunks_00001",
+      "area_offset": [
+        -168,
+        0,
+        -166
+      ],
+      "version": 1,
+      "timestamp": 1608584619905
+    }
+  ]
+}
