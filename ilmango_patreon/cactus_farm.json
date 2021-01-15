@@ -1,0 +1,68 @@
+{
+  "name": "cactus_farm",
+  "origin": [
+    -15,
+    14,
+    900
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "cactus_farm"
+  },
+  "selection_simple": {
+    "name": "cactus_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          55,
+          1,
+          871
+        ],
+        "pos2": [
+          -31,
+          109,
+          929
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "cactus_farm",
+    "boxes": [
+      {
+        "pos1": [
+          55,
+          1,
+          871
+        ],
+        "pos2": [
+          -31,
+          109,
+          929
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -31,
+      1,
+      871
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "cactus_farm",
+      "file_name": "cactus_farm_00001",
+      "area_offset": [
+        -16,
+        -13,
+        -29
+      ],
+      "version": 1,
+      "timestamp": 1610228732795
+    }
+  ]
+}

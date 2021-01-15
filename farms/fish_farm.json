@@ -1,0 +1,90 @@
+{
+  "name": "fish_farm",
+  "origin": [
+    7300,
+    83,
+    5338
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "fish_farm"
+  },
+  "selection_simple": {
+    "name": "fish_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          7333,
+          138,
+          5319
+        ],
+        "pos2": [
+          7296,
+          63,
+          5340
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "fish_farm",
+    "boxes": [
+      {
+        "pos1": [
+          7333,
+          138,
+          5319
+        ],
+        "pos2": [
+          7296,
+          63,
+          5340
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      7296,
+      63,
+      5319
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "fish_farm",
+      "file_name": "fish_farm_00001",
+      "area_offset": [
+        -1,
+        -10,
+        -19
+      ],
+      "version": 1,
+      "timestamp": 1610566625407
+    },
+    {
+      "name": "fish_farm",
+      "file_name": "fish_farm_00002",
+      "area_offset": [
+        -1,
+        -20,
+        -19
+      ],
+      "version": 2,
+      "timestamp": 1610567655371
+    },
+    {
+      "name": "fish_farm",
+      "file_name": "fish_farm_00003",
+      "area_offset": [
+        -4,
+        -20,
+        -19
+      ],
+      "version": 3,
+      "timestamp": 1610648660396
+    }
+  ]
+}
