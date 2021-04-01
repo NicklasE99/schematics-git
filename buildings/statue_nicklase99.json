@@ -1,0 +1,68 @@
+{
+  "name": "statue_nicklase99",
+  "origin": [
+    -237,
+    142,
+    -199
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "statue_nicklase99"
+  },
+  "selection_simple": {
+    "name": "statue_nicklase99",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -238,
+          128,
+          -197
+        ],
+        "pos2": [
+          -221,
+          161,
+          -205
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "statue_nicklase99",
+    "boxes": [
+      {
+        "pos1": [
+          -238,
+          128,
+          -197
+        ],
+        "pos2": [
+          -221,
+          161,
+          -205
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -238,
+      128,
+      -205
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "statue_nicklase99",
+      "file_name": "statue_nicklase99_00001",
+      "area_offset": [
+        -1,
+        -14,
+        -6
+      ],
+      "version": 1,
+      "timestamp": 1616864557510
+    }
+  ]
+}

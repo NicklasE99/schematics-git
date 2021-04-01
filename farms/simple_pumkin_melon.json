@@ -1,0 +1,68 @@
+{
+  "name": "simple_pumkin_melon",
+  "origin": [
+    792,
+    202,
+    -105
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "simple_pumkin_melon"
+  },
+  "selection_simple": {
+    "name": "simple_pumkin_melon",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          792,
+          200,
+          -105
+        ],
+        "pos2": [
+          737,
+          208,
+          -124
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "simple_pumkin_melon",
+    "boxes": [
+      {
+        "pos1": [
+          792,
+          200,
+          -105
+        ],
+        "pos2": [
+          737,
+          208,
+          -124
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      737,
+      200,
+      -124
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "simple_pumkin_melon",
+      "file_name": "simple_pumkin_melon_00001",
+      "area_offset": [
+        -55,
+        -2,
+        -19
+      ],
+      "version": 1,
+      "timestamp": 1612478056057
+    }
+  ]
+}
