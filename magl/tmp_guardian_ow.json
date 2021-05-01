@@ -1,0 +1,68 @@
+{
+  "name": "tmp_guardian_ow",
+  "origin": [
+    -181,
+    9,
+    -5477
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "tmp_guardian_ow"
+  },
+  "selection_simple": {
+    "name": "tmp_guardian_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -123,
+          166,
+          -5419
+        ],
+        "pos2": [
+          -182,
+          8,
+          -5478
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tmp_guardian_ow",
+    "boxes": [
+      {
+        "pos1": [
+          -123,
+          166,
+          -5419
+        ],
+        "pos2": [
+          -182,
+          8,
+          -5478
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -182,
+      8,
+      -5478
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tmp_guardian_ow",
+      "file_name": "tmp_guardian_ow_00001",
+      "area_offset": [
+        -1,
+        -1,
+        -1
+      ],
+      "version": 1,
+      "timestamp": 1619764004833
+    }
+  ]
+}

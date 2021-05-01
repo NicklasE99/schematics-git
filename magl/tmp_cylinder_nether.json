@@ -1,0 +1,68 @@
+{
+  "name": "tmp_cylinder_nether",
+  "origin": [
+    -21,
+    5,
+    -679
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "tmp_cylinder_nether"
+  },
+  "selection_simple": {
+    "name": "tmp_cylinder_nether",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          4,
+          -701
+        ],
+        "pos2": [
+          -40,
+          127,
+          -661
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tmp_cylinder_nether",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          4,
+          -701
+        ],
+        "pos2": [
+          -40,
+          127,
+          -661
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -40,
+      4,
+      -701
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tmp_cylinder_nether",
+      "file_name": "tmp_cylinder_nether_00001",
+      "area_offset": [
+        -19,
+        -1,
+        -22
+      ],
+      "version": 1,
+      "timestamp": 1619785431933
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "tmp_water_removal",
+  "origin": [
+    -153,
+    63,
+    -5449
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "tmp_water_removal"
+  },
+  "selection_simple": {
+    "name": "tmp_water_removal",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -92,
+          63,
+          -5388
+        ],
+        "pos2": [
+          -212,
+          32,
+          -5508
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tmp_water_removal",
+    "boxes": [
+      {
+        "pos1": [
+          -92,
+          63,
+          -5388
+        ],
+        "pos2": [
+          -212,
+          32,
+          -5508
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -212,
+      32,
+      -5508
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tmp_water_removal",
+      "file_name": "tmp_water_removal_00001",
+      "area_offset": [
+        -59,
+        -31,
+        -59
+      ],
+      "version": 1,
+      "timestamp": 1619861546944
+    }
+  ]
+}
