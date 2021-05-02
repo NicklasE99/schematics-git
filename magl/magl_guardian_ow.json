@@ -1,0 +1,79 @@
+{
+  "name": "magl_guardian_ow",
+  "origin": [
+    4778,
+    19,
+    -3900
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "magl_guardian_ow"
+  },
+  "selection_simple": {
+    "name": "magl_guardian_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          4822,
+          64,
+          -3888
+        ],
+        "pos2": [
+          4763,
+          11,
+          -3894
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "magl_guardian_ow",
+    "boxes": [
+      {
+        "pos1": [
+          4822,
+          64,
+          -3888
+        ],
+        "pos2": [
+          4763,
+          11,
+          -3894
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      4763,
+      11,
+      -3894
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "magl_guardian_ow",
+      "file_name": "magl_guardian_ow_00001",
+      "area_offset": [
+        -15,
+        -8,
+        6
+      ],
+      "version": 1,
+      "timestamp": 1619970825768
+    },
+    {
+      "name": "magl_guardian_ow",
+      "file_name": "magl_guardian_ow_00002",
+      "area_offset": [
+        -15,
+        -8,
+        6
+      ],
+      "version": 2,
+      "timestamp": 1619972925588
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "magl_guardian_nether",
+  "origin": [
+    604,
+    5,
+    -481
+  ],
+  "current_version_id": 3,
+  "selection_normal": {
+    "name": "magl_guardian_nether"
+  },
+  "selection_simple": {
+    "name": "magl_guardian_nether",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          588,
+          64,
+          -498
+        ],
+        "pos2": [
+          604,
+          4,
+          -481
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "magl_guardian_nether",
+    "boxes": [
+      {
+        "pos1": [
+          588,
+          64,
+          -498
+        ],
+        "pos2": [
+          604,
+          4,
+          -481
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      588,
+      4,
+      -498
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "magl_guardian_nether",
+      "file_name": "magl_guardian_nether_00001",
+      "area_offset": [
+        -16,
+        0,
+        -17
+      ],
+      "version": 1,
+      "timestamp": 1619970693575
+    },
+    {
+      "name": "magl_guardian_nether",
+      "file_name": "magl_guardian_nether_00002",
+      "area_offset": [
+        -16,
+        -1,
+        -17
+      ],
+      "version": 2,
+      "timestamp": 1619971572674
+    },
+    {
+      "name": "magl_guardian_nether",
+      "file_name": "magl_guardian_nether_00003",
+      "area_offset": [
+        -16,
+        -1,
+        -17
+      ],
+      "version": 3,
+      "timestamp": 1619971778821
+    },
+    {
+      "name": "magl_guardian_nether",
+      "file_name": "magl_guardian_nether_00004",
+      "area_offset": [
+        -16,
+        -1,
+        -17
+      ],
+      "version": 4,
+      "timestamp": 1619972763039
+    }
+  ]
+}
