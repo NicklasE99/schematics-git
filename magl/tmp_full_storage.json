@@ -1,0 +1,79 @@
+{
+  "name": "tmp_full_storage",
+  "origin": [
+    -123,
+    11,
+    -5445
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "tmp_full_storage"
+  },
+  "selection_simple": {
+    "name": "tmp_full_storage",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -182,
+          25,
+          -5483
+        ],
+        "pos2": [
+          -123,
+          10,
+          -5445
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tmp_full_storage",
+    "boxes": [
+      {
+        "pos1": [
+          -182,
+          25,
+          -5483
+        ],
+        "pos2": [
+          -123,
+          10,
+          -5445
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -182,
+      10,
+      -5483
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tmp_full_storage",
+      "file_name": "tmp_full_storage_00001",
+      "area_offset": [
+        -59,
+        -1,
+        -38
+      ],
+      "version": 1,
+      "timestamp": 1620455082713
+    },
+    {
+      "name": "tmp_full_storage",
+      "file_name": "tmp_full_storage_00002",
+      "area_offset": [
+        -59,
+        -1,
+        -38
+      ],
+      "version": 2,
+      "timestamp": 1620455626396
+    }
+  ]
+}
