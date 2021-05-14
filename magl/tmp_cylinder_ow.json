@@ -1,0 +1,68 @@
+{
+  "name": "tmp_cylinder_ow",
+  "origin": [
+    -242,
+    60,
+    -305
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "tmp_cylinder_ow"
+  },
+  "selection_simple": {
+    "name": "tmp_cylinder_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -298,
+          90,
+          -242
+        ],
+        "pos2": [
+          -178,
+          60,
+          -362
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tmp_cylinder_ow",
+    "boxes": [
+      {
+        "pos1": [
+          -298,
+          90,
+          -242
+        ],
+        "pos2": [
+          -178,
+          60,
+          -362
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -298,
+      60,
+      -362
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tmp_cylinder_ow",
+      "file_name": "tmp_cylinder_ow_00001",
+      "area_offset": [
+        -56,
+        0,
+        -57
+      ],
+      "version": 1,
+      "timestamp": 1621024090548
+    }
+  ]
+}
