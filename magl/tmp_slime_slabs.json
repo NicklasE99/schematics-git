@@ -1,0 +1,79 @@
+{
+  "name": "tmp_slime_slabs",
+  "origin": [
+    -129,
+    5,
+    -5428
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "tmp_slime_slabs"
+  },
+  "selection_simple": {
+    "name": "tmp_slime_slabs",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -212,
+          5,
+          -5388
+        ],
+        "pos2": [
+          -92,
+          4,
+          -5508
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "tmp_slime_slabs",
+    "boxes": [
+      {
+        "pos1": [
+          -212,
+          5,
+          -5388
+        ],
+        "pos2": [
+          -92,
+          4,
+          -5508
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -212,
+      4,
+      -5508
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "tmp_slime_slabs",
+      "file_name": "tmp_slime_slabs_00001",
+      "area_offset": [
+        -83,
+        -1,
+        -80
+      ],
+      "version": 1,
+      "timestamp": 1621541655966
+    },
+    {
+      "name": "tmp_slime_slabs",
+      "file_name": "tmp_slime_slabs_00002",
+      "area_offset": [
+        -83,
+        -1,
+        -80
+      ],
+      "version": 2,
+      "timestamp": 1621541805453
+    }
+  ]
+}
