@@ -1,0 +1,68 @@
+{
+  "name": "scoreboard_counter",
+  "origin": [
+    6975,
+    60,
+    6908
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "scoreboard_counter"
+  },
+  "selection_simple": {
+    "name": "scoreboard_counter",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6979,
+          62,
+          6908
+        ],
+        "pos2": [
+          6976,
+          60,
+          6908
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "scoreboard_counter",
+    "boxes": [
+      {
+        "pos1": [
+          6979,
+          62,
+          6908
+        ],
+        "pos2": [
+          6976,
+          60,
+          6908
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      6976,
+      60,
+      6908
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "scoreboard_counter",
+      "file_name": "scoreboard_counter_00001",
+      "area_offset": [
+        1,
+        0,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1621889463117
+    }
+  ]
+}

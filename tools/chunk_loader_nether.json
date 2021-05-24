@@ -1,0 +1,90 @@
+{
+  "name": "chunk_loader_nether",
+  "origin": [
+    6942,
+    65,
+    6874
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "chunk_loader_nether"
+  },
+  "selection_simple": {
+    "name": "chunk_loader_nether",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6945,
+          62,
+          6878
+        ],
+        "pos2": [
+          6949,
+          70,
+          6882
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "chunk_loader_nether",
+    "boxes": [
+      {
+        "pos1": [
+          6945,
+          62,
+          6878
+        ],
+        "pos2": [
+          6949,
+          70,
+          6882
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      6945,
+      62,
+      6878
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "chunk_loader_nether",
+      "file_name": "chunk_loader_nether_00001",
+      "area_offset": [
+        0,
+        -3,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1621883873921
+    },
+    {
+      "name": "chunk_loader_nether",
+      "file_name": "chunk_loader_nether_00002",
+      "area_offset": [
+        0,
+        -5,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1621884797573
+    },
+    {
+      "name": "chunk_loader_nether",
+      "file_name": "chunk_loader_nether_00003",
+      "area_offset": [
+        3,
+        -3,
+        4
+      ],
+      "version": 3,
+      "timestamp": 1621884929978
+    }
+  ]
+}

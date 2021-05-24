@@ -1,0 +1,90 @@
+{
+  "name": "chunk_loader_ow",
+  "origin": [
+    6952,
+    64,
+    6893
+  ],
+  "current_version_id": 2,
+  "selection_normal": {
+    "name": "chunk_loader_ow"
+  },
+  "selection_simple": {
+    "name": "chunk_loader_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6953,
+          62,
+          6899
+        ],
+        "pos2": [
+          6959,
+          69,
+          6903
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "chunk_loader_ow",
+    "boxes": [
+      {
+        "pos1": [
+          6953,
+          62,
+          6899
+        ],
+        "pos2": [
+          6959,
+          69,
+          6903
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      6953,
+      62,
+      6899
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "chunk_loader_ow",
+      "file_name": "chunk_loader_ow_00001",
+      "area_offset": [
+        0,
+        -3,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1621883798432
+    },
+    {
+      "name": "chunk_loader_ow",
+      "file_name": "chunk_loader_ow_00002",
+      "area_offset": [
+        0,
+        -3,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1621884399717
+    },
+    {
+      "name": "chunk_loader_ow",
+      "file_name": "chunk_loader_ow_00003",
+      "area_offset": [
+        1,
+        -2,
+        6
+      ],
+      "version": 3,
+      "timestamp": 1621884456376
+    }
+  ]
+}

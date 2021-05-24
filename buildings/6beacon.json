@@ -1,0 +1,68 @@
+{
+  "name": "6beacon",
+  "origin": [
+    6965,
+    60,
+    6953
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "6beacon"
+  },
+  "selection_simple": {
+    "name": "6beacon",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6980,
+          65,
+          6942
+        ],
+        "pos2": [
+          6968,
+          60,
+          6953
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "6beacon",
+    "boxes": [
+      {
+        "pos1": [
+          6980,
+          65,
+          6942
+        ],
+        "pos2": [
+          6968,
+          60,
+          6953
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      6968,
+      60,
+      6942
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "6beacon",
+      "file_name": "6beacon_00001",
+      "area_offset": [
+        3,
+        0,
+        -11
+      ],
+      "version": 1,
+      "timestamp": 1621702222984
+    }
+  ]
+}
