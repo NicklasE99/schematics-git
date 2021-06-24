@@ -1,0 +1,68 @@
+{
+  "name": "gnembon_drowned",
+  "origin": [
+    106,
+    71,
+    317
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "gnembon_drowned"
+  },
+  "selection_simple": {
+    "name": "gnembon_drowned",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          17,
+          55,
+          216
+        ],
+        "pos2": [
+          113,
+          102,
+          317
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "gnembon_drowned",
+    "boxes": [
+      {
+        "pos1": [
+          17,
+          55,
+          216
+        ],
+        "pos2": [
+          113,
+          102,
+          317
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      17,
+      55,
+      216
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "gnembon_drowned",
+      "file_name": "gnembon_drowned_00001",
+      "area_offset": [
+        -89,
+        -16,
+        -101
+      ],
+      "version": 1,
+      "timestamp": 1624521933177
+    }
+  ]
+}
