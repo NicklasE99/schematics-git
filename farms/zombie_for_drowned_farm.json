@@ -1,0 +1,68 @@
+{
+  "name": "zombie_for_drowned_farm",
+  "origin": [
+    -1132,
+    247,
+    -5957
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "zombie_for_drowned_farm"
+  },
+  "selection_simple": {
+    "name": "zombie_for_drowned_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -1135,
+          238,
+          -5967
+        ],
+        "pos2": [
+          -1062,
+          250,
+          -5953
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "zombie_for_drowned_farm",
+    "boxes": [
+      {
+        "pos1": [
+          -1135,
+          238,
+          -5967
+        ],
+        "pos2": [
+          -1062,
+          250,
+          -5953
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -1135,
+      238,
+      -5967
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "zombie_for_drowned_farm",
+      "file_name": "zombie_for_drowned_farm_00001",
+      "area_offset": [
+        -3,
+        -9,
+        -10
+      ],
+      "version": 1,
+      "timestamp": 1625430827476
+    }
+  ]
+}
