@@ -1,0 +1,79 @@
+{
+  "name": "moss_farm",
+  "origin": [
+    790,
+    79,
+    9
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "moss_farm"
+  },
+  "selection_simple": {
+    "name": "moss_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          813,
+          66,
+          36
+        ],
+        "pos2": [
+          787,
+          80,
+          10
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "moss_farm",
+    "boxes": [
+      {
+        "pos1": [
+          813,
+          66,
+          36
+        ],
+        "pos2": [
+          787,
+          80,
+          10
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      787,
+      66,
+      10
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "moss_farm",
+      "file_name": "moss_farm_00001",
+      "area_offset": [
+        -3,
+        -13,
+        1
+      ],
+      "version": 1,
+      "timestamp": 1623617583817
+    },
+    {
+      "name": "moss_farm",
+      "file_name": "moss_farm_00002",
+      "area_offset": [
+        -3,
+        -13,
+        1
+      ],
+      "version": 2,
+      "timestamp": 1623619509107
+    }
+  ]
+}
