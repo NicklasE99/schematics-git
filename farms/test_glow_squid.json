@@ -1,0 +1,68 @@
+{
+  "name": "test_glow_squid",
+  "origin": [
+    6193,
+    8,
+    4653
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "test_glow_squid"
+  },
+  "selection_simple": {
+    "name": "test_glow_squid",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6175,
+          5,
+          4651
+        ],
+        "pos2": [
+          6193,
+          31,
+          4672
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "test_glow_squid",
+    "boxes": [
+      {
+        "pos1": [
+          6175,
+          5,
+          4651
+        ],
+        "pos2": [
+          6193,
+          31,
+          4672
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      6175,
+      5,
+      4651
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "test_glow_squid",
+      "file_name": "test_glow_squid_00001",
+      "area_offset": [
+        -18,
+        -3,
+        -2
+      ],
+      "version": 1,
+      "timestamp": 1626723494884
+    }
+  ]
+}
