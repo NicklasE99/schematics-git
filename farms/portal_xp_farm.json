@@ -1,0 +1,79 @@
+{
+  "name": "portal_xp_farm",
+  "origin": [
+    221,
+    61,
+    75
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "portal_xp_farm"
+  },
+  "selection_simple": {
+    "name": "portal_xp_farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          298,
+          151,
+          145
+        ],
+        "pos2": [
+          223,
+          51,
+          73
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "portal_xp_farm",
+    "boxes": [
+      {
+        "pos1": [
+          298,
+          151,
+          145
+        ],
+        "pos2": [
+          223,
+          51,
+          73
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      223,
+      51,
+      73
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "portal_xp_farm",
+      "file_name": "portal_xp_farm_00001",
+      "area_offset": [
+        2,
+        -10,
+        -2
+      ],
+      "version": 1,
+      "timestamp": 1628369097435
+    },
+    {
+      "name": "portal_xp_farm",
+      "file_name": "portal_xp_farm_00002",
+      "area_offset": [
+        2,
+        -10,
+        -2
+      ],
+      "version": 2,
+      "timestamp": 1628370280637
+    }
+  ]
+}

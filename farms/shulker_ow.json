@@ -1,0 +1,68 @@
+{
+  "name": "shulker_ow",
+  "origin": [
+    120,
+    144,
+    180
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "shulker_ow"
+  },
+  "selection_simple": {
+    "name": "shulker_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          107,
+          144,
+          196
+        ],
+        "pos2": [
+          127,
+          193,
+          176
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "shulker_ow",
+    "boxes": [
+      {
+        "pos1": [
+          107,
+          144,
+          196
+        ],
+        "pos2": [
+          127,
+          193,
+          176
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      107,
+      144,
+      176
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "shulker_ow",
+      "file_name": "shulker_ow_00001",
+      "area_offset": [
+        -13,
+        0,
+        -4
+      ],
+      "version": 1,
+      "timestamp": 1628846577002
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "shulker_nether",
+  "origin": [
+    16,
+    128,
+    17
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "shulker_nether"
+  },
+  "selection_simple": {
+    "name": "shulker_nether",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          19,
+          127,
+          33
+        ],
+        "pos2": [
+          8,
+          192,
+          17
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "shulker_nether",
+    "boxes": [
+      {
+        "pos1": [
+          19,
+          127,
+          33
+        ],
+        "pos2": [
+          8,
+          192,
+          17
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      8,
+      127,
+      17
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "shulker_nether",
+      "file_name": "shulker_nether_00001",
+      "area_offset": [
+        -8,
+        -1,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1628846228952
+    },
+    {
+      "name": "shulker_nether",
+      "file_name": "shulker_nether_00002",
+      "area_offset": [
+        -8,
+        -1,
+        0
+      ],
+      "version": 2,
+      "timestamp": 1628864023218
+    }
+  ]
+}
