@@ -1,0 +1,68 @@
+{
+  "name": "chunkloader_minecart_nether",
+  "origin": [
+    -16,
+    241,
+    -192
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "chunkloader_minecart_nether"
+  },
+  "selection_simple": {
+    "name": "chunkloader_minecart_nether",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -1,
+          240,
+          -173
+        ],
+        "pos2": [
+          -16,
+          245,
+          -192
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "chunkloader_minecart_nether",
+    "boxes": [
+      {
+        "pos1": [
+          -1,
+          240,
+          -173
+        ],
+        "pos2": [
+          -16,
+          245,
+          -192
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -16,
+      240,
+      -192
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "chunkloader_minecart_nether",
+      "file_name": "chunkloader_minecart_nether_00001",
+      "area_offset": [
+        0,
+        -1,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1630758389701
+    }
+  ]
+}

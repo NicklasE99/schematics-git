@@ -1,0 +1,68 @@
+{
+  "name": "chunkloader_minecart_ow",
+  "origin": [
+    -32,
+    241,
+    -1440
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "chunkloader_minecart_ow"
+  },
+  "selection_simple": {
+    "name": "chunkloader_minecart_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -17,
+          240,
+          -1425
+        ],
+        "pos2": [
+          -32,
+          245,
+          -1440
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "chunkloader_minecart_ow",
+    "boxes": [
+      {
+        "pos1": [
+          -17,
+          240,
+          -1425
+        ],
+        "pos2": [
+          -32,
+          245,
+          -1440
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -32,
+      240,
+      -1440
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "chunkloader_minecart_ow",
+      "file_name": "chunkloader_minecart_ow_00001",
+      "area_offset": [
+        0,
+        -1,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1630758146504
+    }
+  ]
+}
