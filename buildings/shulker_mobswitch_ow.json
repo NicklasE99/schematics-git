@@ -1,0 +1,266 @@
+{
+  "name": "shulker_mobswitch_ow",
+  "origin": [
+    6768,
+    5,
+    4703
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "shulker_mobswitch_ow",
+    "current": "rail2",
+    "boxes": [
+      {
+        "pos1": [
+          6785,
+          35,
+          4688
+        ],
+        "pos2": [
+          6767,
+          26,
+          4639
+        ],
+        "name": "shulker_storage"
+      },
+      {
+        "pos1": [
+          6799,
+          179,
+          4664
+        ],
+        "pos2": [
+          6797,
+          29,
+          4662
+        ],
+        "name": "pillar2"
+      },
+      {
+        "pos1": [
+          6785,
+          30,
+          4644
+        ],
+        "pos2": [
+          6798,
+          29,
+          4663
+        ],
+        "name": "rail2"
+      },
+      {
+        "pos1": [
+          6751,
+          4,
+          4638
+        ],
+        "pos2": [
+          6799,
+          4,
+          4703
+        ],
+        "name": "groundplane"
+      },
+      {
+        "pos1": [
+          6767,
+          29,
+          4680
+        ],
+        "pos2": [
+          6755,
+          31,
+          4661
+        ],
+        "name": "rail1"
+      },
+      {
+        "pos1": [
+          6752,
+          177,
+          4664
+        ],
+        "pos2": [
+          6799,
+          185,
+          4662
+        ],
+        "name": "portal"
+      },
+      {
+        "pos1": [
+          6754,
+          29,
+          4662
+        ],
+        "pos2": [
+          6752,
+          179,
+          4664
+        ],
+        "name": "pillar1"
+      },
+      {
+        "pos1": [
+          6768,
+          240,
+          4671
+        ],
+        "pos2": [
+          6783,
+          245,
+          4656
+        ],
+        "name": "chunkloader"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "shulker_mobswitch_ow",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          6768,
+          5,
+          4703
+        ],
+        "pos2": [
+          6768,
+          5,
+          4703
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "shulker_mobswitch_ow",
+    "boxes": [
+      {
+        "pos1": [
+          6785,
+          35,
+          4688
+        ],
+        "pos2": [
+          6767,
+          26,
+          4639
+        ],
+        "name": "shulker_storage"
+      },
+      {
+        "pos1": [
+          6799,
+          179,
+          4664
+        ],
+        "pos2": [
+          6797,
+          29,
+          4662
+        ],
+        "name": "pillar2"
+      },
+      {
+        "pos1": [
+          6785,
+          30,
+          4644
+        ],
+        "pos2": [
+          6798,
+          29,
+          4663
+        ],
+        "name": "rail2"
+      },
+      {
+        "pos1": [
+          6751,
+          4,
+          4638
+        ],
+        "pos2": [
+          6799,
+          4,
+          4703
+        ],
+        "name": "groundplane"
+      },
+      {
+        "pos1": [
+          6767,
+          29,
+          4680
+        ],
+        "pos2": [
+          6755,
+          31,
+          4661
+        ],
+        "name": "rail1"
+      },
+      {
+        "pos1": [
+          6752,
+          177,
+          4664
+        ],
+        "pos2": [
+          6799,
+          185,
+          4662
+        ],
+        "name": "portal"
+      },
+      {
+        "pos1": [
+          6754,
+          29,
+          4662
+        ],
+        "pos2": [
+          6752,
+          179,
+          4664
+        ],
+        "name": "pillar1"
+      },
+      {
+        "pos1": [
+          6768,
+          240,
+          4671
+        ],
+        "pos2": [
+          6783,
+          245,
+          4656
+        ],
+        "name": "chunkloader"
+      }
+    ],
+    "origin": [
+      6751,
+      4,
+      4638
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "shulker_mobswitch_ow",
+      "file_name": "shulker_mobswitch_ow_00001",
+      "area_offset": [
+        -17,
+        -1,
+        -65
+      ],
+      "version": 1,
+      "timestamp": 1631363940179
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "name": "shulker_transport_nether",
+  "origin": [
+    601,
+    181,
+    811
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "shulker_transport_nether",
+    "current": "portal",
+    "boxes": [
+      {
+        "pos1": [
+          601,
+          180,
+          811
+        ],
+        "pos2": [
+          681,
+          182,
+          803
+        ],
+        "name": "part1"
+      },
+      {
+        "pos1": [
+          681,
+          180,
+          808
+        ],
+        "pos2": [
+          679,
+          181,
+          584
+        ],
+        "name": "part2"
+      },
+      {
+        "pos1": [
+          679,
+          179,
+          581
+        ],
+        "pos2": [
+          850,
+          182,
+          589
+        ],
+        "name": "part3"
+      },
+      {
+        "pos1": [
+          850,
+          179,
+          586
+        ],
+        "pos2": [
+          845,
+          185,
+          581
+        ],
+        "name": "portal"
+      },
+      {
+        "pos1": [
+          850,
+          240,
+          570
+        ],
+        "pos2": [
+          835,
+          245,
+          589
+        ],
+        "name": "chunkloader"
+      }
+    ]
+  },
+  "selection_simple": {
+    "name": "shulker_transport_nether",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          601,
+          179,
+          811
+        ],
+        "pos2": [
+          681,
+          182,
+          803
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "shulker_transport_nether",
+    "boxes": [
+      {
+        "pos1": [
+          679,
+          179,
+          581
+        ],
+        "pos2": [
+          850,
+          182,
+          589
+        ],
+        "name": "part3"
+      },
+      {
+        "pos1": [
+          850,
+          179,
+          586
+        ],
+        "pos2": [
+          845,
+          185,
+          581
+        ],
+        "name": "portal"
+      },
+      {
+        "pos1": [
+          601,
+          180,
+          811
+        ],
+        "pos2": [
+          681,
+          182,
+          803
+        ],
+        "name": "part1"
+      },
+      {
+        "pos1": [
+          681,
+          180,
+          808
+        ],
+        "pos2": [
+          679,
+          181,
+          584
+        ],
+        "name": "part2"
+      },
+      {
+        "pos1": [
+          850,
+          240,
+          570
+        ],
+        "pos2": [
+          835,
+          245,
+          589
+        ],
+        "name": "chunkloader"
+      }
+    ],
+    "origin": [
+      601,
+      179,
+      570
+    ]
+  },
+  "selection_mode": "NORMAL",
+  "versions": [
+    {
+      "name": "shulker_transport_nether",
+      "file_name": "shulker_transport_nether_00001",
+      "area_offset": [
+        0,
+        -2,
+        -241
+      ],
+      "version": 1,
+      "timestamp": 1631363152554
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     79,
     9
   ],
-  "current_version_id": 1,
+  "current_version_id": 2,
   "selection_normal": {
     "name": "moss_farm"
   },
@@ -15,14 +15,14 @@
     "boxes": [
       {
         "pos1": [
-          813,
-          66,
-          36
+          234,
+          9,
+          188
         ],
         "pos2": [
-          787,
-          80,
-          10
+          208,
+          24,
+          168
         ],
         "name": "Unnamed"
       }
@@ -33,22 +33,22 @@
     "boxes": [
       {
         "pos1": [
-          813,
-          66,
-          36
+          234,
+          9,
+          188
         ],
         "pos2": [
-          787,
-          80,
-          10
+          208,
+          24,
+          168
         ],
         "name": "Unnamed"
       }
     ],
     "origin": [
-      787,
-      66,
-      10
+      208,
+      9,
+      168
     ]
   },
   "selection_mode": "SIMPLE",
@@ -74,6 +74,17 @@
       ],
       "version": 2,
       "timestamp": 1623619509107
+    },
+    {
+      "name": "moss_farm",
+      "file_name": "moss_farm_00003",
+      "area_offset": [
+        -582,
+        -70,
+        159
+      ],
+      "version": 3,
+      "timestamp": 1630786156004
     }
   ]
 }

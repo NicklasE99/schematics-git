@@ -1,0 +1,68 @@
+{
+  "name": "rays_simple_tree",
+  "origin": [
+    357,
+    92,
+    28
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "rays_simple_tree"
+  },
+  "selection_simple": {
+    "name": "rays_simple_tree",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          373,
+          81,
+          48
+        ],
+        "pos2": [
+          354,
+          109,
+          27
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "rays_simple_tree",
+    "boxes": [
+      {
+        "pos1": [
+          373,
+          81,
+          48
+        ],
+        "pos2": [
+          354,
+          109,
+          27
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      354,
+      81,
+      27
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "rays_simple_tree",
+      "file_name": "rays_simple_tree_00001",
+      "area_offset": [
+        -3,
+        -11,
+        -1
+      ],
+      "version": 1,
+      "timestamp": 1630854531799
+    }
+  ]
+}
