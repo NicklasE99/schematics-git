@@ -1,0 +1,79 @@
+{
+  "name": "villager_farmer",
+  "origin": [
+    976,
+    75,
+    332
+  ],
+  "current_version_id": 1,
+  "selection_normal": {
+    "name": "villager_farmer"
+  },
+  "selection_simple": {
+    "name": "villager_farmer",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          989,
+          69,
+          333
+        ],
+        "pos2": [
+          978,
+          75,
+          345
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "villager_farmer",
+    "boxes": [
+      {
+        "pos1": [
+          989,
+          69,
+          333
+        ],
+        "pos2": [
+          978,
+          75,
+          345
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      978,
+      69,
+      333
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "villager_farmer",
+      "file_name": "villager_farmer_00001",
+      "area_offset": [
+        -1,
+        -1,
+        -9
+      ],
+      "version": 1,
+      "timestamp": 1635593193013
+    },
+    {
+      "name": "villager_farmer",
+      "file_name": "villager_farmer_00002",
+      "area_offset": [
+        2,
+        -6,
+        1
+      ],
+      "version": 2,
+      "timestamp": 1635594535588
+    }
+  ]
+}

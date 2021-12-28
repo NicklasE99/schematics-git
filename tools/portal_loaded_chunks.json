@@ -1,0 +1,68 @@
+{
+  "name": "portal_loaded_chunks",
+  "origin": [
+    632,
+    252,
+    39
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "portal_loaded_chunks"
+  },
+  "selection_simple": {
+    "name": "portal_loaded_chunks",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          576,
+          251,
+          95
+        ],
+        "pos2": [
+          687,
+          251,
+          -16
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "portal_loaded_chunks",
+    "boxes": [
+      {
+        "pos1": [
+          576,
+          251,
+          95
+        ],
+        "pos2": [
+          687,
+          251,
+          -16
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      576,
+      251,
+      -16
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "portal_loaded_chunks",
+      "file_name": "portal_loaded_chunks_00001",
+      "area_offset": [
+        -56,
+        -1,
+        -55
+      ],
+      "version": 1,
+      "timestamp": 1632422952214
+    }
+  ]
+}
